@@ -1,4 +1,5 @@
 add_executable(myexample
+  myexample_fort.f90
   myexample.c
 )
 
