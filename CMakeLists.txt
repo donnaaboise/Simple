@@ -8,6 +8,7 @@
 
 cmake_minimum_required(VERSION 3.13...3.20)
 
+# Name doesn't really get used here?
 project(Simple LANGUAGES C CXX Fortran)
 
 set(CMAKE_CXX_STANDARD 17)
